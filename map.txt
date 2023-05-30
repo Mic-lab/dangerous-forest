@@ -1,6 +1,4 @@
 # Format: enemy_quantity enemy_type enemy_level,enemy_quantity enemy_type enemy_level...
-3 goblin 1
-1 skeleton 1
-1 mushroom 1
-1 eye 1
-1 goblin 1,1 skeleton 1,1 goblin 1
+1 goblin 0,1 eye 0
+1 mushroom 0
+1 skeleton 0
